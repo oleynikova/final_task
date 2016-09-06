@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Пользователи>
+			<v8:Ref xsi:type="v8:CatalogRef.Пользователи">b1aeb6c1-7395-11e6-a42a-1cbdb9e7847c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Description>Оператор1</v8:Description>
+			<v8:Недействителен>false</v8:Недействителен>
+			<v8:Подразделение xsi:type="v8:CatalogRef._ДемоПодразделения">00000000-0000-0000-0000-000000000000</v8:Подразделение>
+			<v8:ФизическоеЛицо xsi:type="v8:CatalogRef._ДемоФизическиеЛица">00000000-0000-0000-0000-000000000000</v8:ФизическоеЛицо>
+			<v8:Комментарий/>
+			<v8:Служебный>false</v8:Служебный>
+			<v8:Подготовлен>false</v8:Подготовлен>
+			<v8:ИдентификаторПользователяИБ>7df01a49-076a-4bfe-ad3e-ec737ae4bcbc</v8:ИдентификаторПользователяИБ>
+			<v8:ИдентификаторПользователяСервиса>00000000-0000-0000-0000-000000000000</v8:ИдентификаторПользователяСервиса>
+			<v8:СвойстваПользователяИБ>AQFDAQAAAAAAAO+7v3siIyIsNDIzODAxOWQtN2U0OS00ZmM5LTkxZGItYjZiOTUx
+ZDVjZjhlLA0KezQsDQp7DQp7IlMiLCLQktGF0L7QtNCS0J/RgNC+0LPRgNCw0LzQ
+vNGD0KDQsNC30YDQtdGI0LXQvSJ9LA0KeyJCIiwxfQ0KfSwNCnsNCnsiUyIsItCQ
+0YPRgtC10L3RgtC40YTQuNC60LDRhtC40Y/QodGC0LDQvdC00LDRgNGC0L3QsNGP
+In0sDQp7IkIiLDF9DQp9LA0Kew0KeyJTIiwi0JDRg9GC0LXQvdGC0LjRhNC40LrQ
+sNGG0LjRj09wZW5JRCJ9LA0KeyJCIiwwfQ0KfSwNCnsNCnsiUyIsItCQ0YPRgtC1
+0L3RgtC40YTQuNC60LDRhtC40Y/QntChIn0sDQp7IkIiLDB9DQp9DQp9DQp9</v8:СвойстваПользователяИБ>
+		</v8:CatalogObject.Пользователи>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
