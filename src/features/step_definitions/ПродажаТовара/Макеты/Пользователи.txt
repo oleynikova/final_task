@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc229-ea23-11de-8634-001d600d9ad2</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000005</v8:Code>
+			<v8:Description>Программные продукты 1С</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc237-ea23-11de-8634-001d600d9ad2</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc229-ea23-11de-8634-001d600d9ad2</v8:Parent>
+			<v8:Code>000000013</v8:Code>
+			<v8:Description>1С:Управление торговлей 8</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d75-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713c-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc238-ea23-11de-8634-001d600d9ad2</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc229-ea23-11de-8634-001d600d9ad2</v8:Parent>
+			<v8:Code>000000014</v8:Code>
+			<v8:Description>1С:Документооборот 8</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d74-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713c-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc239-ea23-11de-8634-001d600d9ad2</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc229-ea23-11de-8634-001d600d9ad2</v8:Parent>
+			<v8:Code>000000015</v8:Code>
+			<v8:Description>1С:Бухгалтерия 8</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d7a-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713c-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc246-ea23-11de-8634-001d600d9ad2</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc229-ea23-11de-8634-001d600d9ad2</v8:Parent>
+			<v8:Code>000000019</v8:Code>
+			<v8:Description>1С:Архив</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d76-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713c-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>00-000026</v8:Code>
+			<v8:Description>Архив</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd3896-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000027</v8:Code>
+			<v8:Description>Журнал "Кукольный театр"</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">febd3891-e563-11e3-9a0d-e890816d6978</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>231</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd3897-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000028</v8:Code>
+			<v8:Description>Журнал "Театр оперы и балета"</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">febd3891-e563-11e3-9a0d-e890816d6978</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d7c-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>231</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd3898-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000029</v8:Code>
+			<v8:Description>Журнал "Консерватория"</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">febd3893-e563-11e3-9a0d-e890816d6978</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d7b-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>231</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd3899-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000030</v8:Code>
+			<v8:Description>1С:Управление предприятием 1.1</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>8670</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8da-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd389a-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000031</v8:Code>
+			<v8:Description>1С:Управление предприятием 1.3</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>29600</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd389b-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000032</v8:Code>
+			<v8:Description>1С:Управление предприятием 1.2</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>19230</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">febd389c-e563-11e3-9a0d-e890816d6978</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000033</v8:Code>
+			<v8:Description>1С:Управление предприятием 1.4</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">febd3893-e563-11e3-9a0d-e890816d6978</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>15230</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8da-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">b2b5373c-6f42-11e4-9b9b-20cf30c960a0</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>00-000034</v8:Code>
+			<v8:Description>Услуги</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">b2b5373d-6f42-11e4-9b9b-20cf30c960a0</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">b2b5373c-6f42-11e4-9b9b-20cf30c960a0</v8:Parent>
+			<v8:Code>00-000035</v8:Code>
+			<v8:Description>Услуги перевозки</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">febd3895-e563-11e3-9a0d-e890816d6978</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">4e127564-d74f-4dd9-bced-0327f0f4e061</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c854-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc229-ea23-11de-8634-001d600d9ad2</v8:Parent>
+			<v8:Code>00-000001</v8:Code>
+			<v8:Description>1С:Зарплата и Управление Персоналом 8</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d72-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713c-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c857-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">b1edc229-ea23-11de-8634-001d600d9ad2</v8:Parent>
+			<v8:Code>00-000002</v8:Code>
+			<v8:Description>1С:Налогоплательщик 8</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c85b-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d73-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713c-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d9-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8dd-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c862-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>00-000004</v8:Code>
+			<v8:Description>Бытовая техника</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c865-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c862-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000005</v8:Code>
+			<v8:Description>Вентиляторы, пылесосы, кондиционеры</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c868-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c862-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000006</v8:Code>
+			<v8:Description>Кухонные электроприборы</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c86b-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c862-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000007</v8:Code>
+			<v8:Description>Холодильники, морозильные камеры</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c871-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c865-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000008</v8:Code>
+			<v8:Description>Вентилятор настольный</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d6e-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d6-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c874-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c865-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000009</v8:Code>
+			<v8:Description>Вентилятор оконный</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d6-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c877-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c865-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000010</v8:Code>
+			<v8:Description>Кондиционер ELEKTA</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c84c-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d71-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d4-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c87a-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c865-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000011</v8:Code>
+			<v8:Description>Кондиционер FIRMSTAR 12М</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c84c-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d4-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c87d-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c865-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000012</v8:Code>
+			<v8:Description>Пылесос "Электросила"</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d70-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d5-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c880-cea2-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c868-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000013</v8:Code>
+			<v8:Description>Кофеварка BRAUN KF22R</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d6f-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул>678.902.234</v8:Артикул>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b7137-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">b26b7120-cea9-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:decimal">12</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec89f-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c868-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000014</v8:Code>
+			<v8:Description>Миксер BINATONE HM 212,6 скор. 150вт</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d6-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">b26b7120-cea9-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:decimal">12</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8a2-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c868-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000015</v8:Code>
+			<v8:Description>Мясорубка MOULINEX  A 15</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b7138-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">b26b7120-cea9-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:decimal">18</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8a5-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c868-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000016</v8:Code>
+			<v8:Description>Соковыжималка  SOLAC  Мод.541</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод>4601546043726</v8:Штрихкод>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b7139-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">b26b7120-cea9-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:decimal">6</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8a8-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c868-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000017</v8:Code>
+			<v8:Description>Чайник MOULINEX L 1,3</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c849-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d6d-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d6-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">b26b7120-cea9-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:decimal">1</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8ab-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c86b-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000018</v8:Code>
+			<v8:Description>Х-6666 Атлант Холодильный комбинат</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c84f-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b7138-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">b26b711f-cea9-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713b-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8ae-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">f3b2c86b-cea2-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000019</v8:Code>
+			<v8:Description>Х-67890 Стинол Завод бытовой техники</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c84f-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d6-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">b26b711f-cea9-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">b26b713b-cea9-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b1-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>00-000020</v8:Code>
+			<v8:Description>Мебель</v8:Description>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b4-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b1-cea6-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000021</v8:Code>
+			<v8:Description>Кровать</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c86f-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d78-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод>9601546092564</v8:Штрихкод>
+			<v8:Артикул>КД-2 ТХ</v8:Артикул>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d5-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8de-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:string">200х90х45</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b7-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b1-cea6-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000022</v8:Code>
+			<v8:Description>Стол обеденный </v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c86f-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d77-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d5-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8de-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:string">150х90х80</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8ba-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b1-cea6-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000023</v8:Code>
+			<v8:Description>Стул</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c86f-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d6c-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d6-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8bd-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b1-cea6-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000024</v8:Code>
+			<v8:Description>Шкаф кухонный</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c86f-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод>2112345678900</v8:Штрихкод>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d4-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8de-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="xs:string">80х50х35</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8c0-cea6-11e2-acd3-005056c00008</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">2aeec8b1-cea6-11e2-acd3-005056c00008</v8:Parent>
+			<v8:Code>00-000025</v8:Code>
+			<v8:Description>Спальный гарнитур</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">f3b2c86f-cea2-11e2-acd3-005056c00008</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">e8c12d79-2cf5-11e4-acba-3085a93ddca2</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">2aeec8d3-cea6-11e2-acd3-005056c00008</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ЗначенияСвойствОбъектов">2aeec8d4-cea6-11e2-acd3-005056c00008</v8:Значение>
+				<v8:ТекстоваяСтрока/>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject._ДемоНоменклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef._ДемоНоменклатура">dee28b97-757e-11e4-b47c-50465d9e25f1</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef._ДемоНоменклатура">febd388f-e563-11e3-9a0d-e890816d6978</v8:Parent>
+			<v8:Code>00-000036</v8:Code>
+			<v8:Description>Шкаф кухонный</v8:Description>
+			<v8:ВидНоменклатуры xsi:type="v8:CatalogRef._ДемоВидыНоменклатуры">febd3893-e563-11e3-9a0d-e890816d6978</v8:ВидНоменклатуры>
+			<v8:НаОсновномСкладе>false</v8:НаОсновномСкладе>
+			<v8:СкрытыйРеквизит/>
+			<v8:ФайлКартинки xsi:type="v8:CatalogRef._ДемоНоменклатураПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ФайлКартинки>
+			<v8:ГруппаДоступа xsi:type="v8:CatalogRef._ДемоГруппыДоступаНоменклатуры">00000000-0000-0000-0000-000000000000</v8:ГруппаДоступа>
+			<v8:Цена>0</v8:Цена>
+			<v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000</v8:СтранаПроисхождения>
+			<v8:Штрихкод/>
+			<v8:Артикул/>
+		</v8:CatalogObject._ДемоНоменклатура>
+		<v8:CatalogObject.Пользователи>
+			<v8:Ref xsi:type="v8:CatalogRef.Пользователи">b1aeb6c1-7395-11e6-a42a-1cbdb9e7847c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Description>Оператор1</v8:Description>
+			<v8:Недействителен>false</v8:Недействителен>
+			<v8:Подразделение xsi:type="v8:CatalogRef._ДемоПодразделения">00000000-0000-0000-0000-000000000000</v8:Подразделение>
+			<v8:ФизическоеЛицо xsi:type="v8:CatalogRef._ДемоФизическиеЛица">00000000-0000-0000-0000-000000000000</v8:ФизическоеЛицо>
+			<v8:Комментарий/>
+			<v8:Служебный>false</v8:Служебный>
+			<v8:Подготовлен>false</v8:Подготовлен>
+			<v8:ИдентификаторПользователяИБ>7df01a49-076a-4bfe-ad3e-ec737ae4bcbc</v8:ИдентификаторПользователяИБ>
+			<v8:ИдентификаторПользователяСервиса>00000000-0000-0000-0000-000000000000</v8:ИдентификаторПользователяСервиса>
+			<v8:СвойстваПользователяИБ>AQFDAQAAAAAAAO+7v3siIyIsNDIzODAxOWQtN2U0OS00ZmM5LTkxZGItYjZiOTUx
+ZDVjZjhlLA0KezQsDQp7DQp7IlMiLCLQktGF0L7QtNCS0J/RgNC+0LPRgNCw0LzQ
+vNGD0KDQsNC30YDQtdGI0LXQvSJ9LA0KeyJCIiwxfQ0KfSwNCnsNCnsiUyIsItCQ
+0YPRgtC10L3RgtC40YTQuNC60LDRhtC40Y/QodGC0LDQvdC00LDRgNGC0L3QsNGP
+In0sDQp7IkIiLDF9DQp9LA0Kew0KeyJTIiwi0JDRg9GC0LXQvdGC0LjRhNC40LrQ
+sNGG0LjRj09wZW5JRCJ9LA0KeyJCIiwwfQ0KfSwNCnsNCnsiUyIsItCQ0YPRgtC1
+0L3RgtC40YTQuNC60LDRhtC40Y/QntChIn0sDQp7IkIiLDB9DQp9DQp9DQp9</v8:СвойстваПользователяИБ>
+		</v8:CatalogObject.Пользователи>
+		<v8:CatalogObject.Пользователи>
+			<v8:Ref xsi:type="v8:CatalogRef.Пользователи">b1aeb6c2-7395-11e6-a42a-1cbdb9e7847c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Description>Оператор2</v8:Description>
+			<v8:Недействителен>false</v8:Недействителен>
+			<v8:Подразделение xsi:type="v8:CatalogRef._ДемоПодразделения">00000000-0000-0000-0000-000000000000</v8:Подразделение>
+			<v8:ФизическоеЛицо xsi:type="v8:CatalogRef._ДемоФизическиеЛица">00000000-0000-0000-0000-000000000000</v8:ФизическоеЛицо>
+			<v8:Комментарий/>
+			<v8:Служебный>false</v8:Служебный>
+			<v8:Подготовлен>false</v8:Подготовлен>
+			<v8:ИдентификаторПользователяИБ>bc8c95b2-8c15-457c-b8a2-642e5f47dc2a</v8:ИдентификаторПользователяИБ>
+			<v8:ИдентификаторПользователяСервиса>00000000-0000-0000-0000-000000000000</v8:ИдентификаторПользователяСервиса>
+			<v8:СвойстваПользователяИБ>AQFDAQAAAAAAAO+7v3siIyIsNDIzODAxOWQtN2U0OS00ZmM5LTkxZGItYjZiOTUx
+ZDVjZjhlLA0KezQsDQp7DQp7IlMiLCLQktGF0L7QtNCS0J/RgNC+0LPRgNCw0LzQ
+vNGD0KDQsNC30YDQtdGI0LXQvSJ9LA0KeyJCIiwxfQ0KfSwNCnsNCnsiUyIsItCQ
+0YPRgtC10L3RgtC40YTQuNC60LDRhtC40Y/QodGC0LDQvdC00LDRgNGC0L3QsNGP
+In0sDQp7IkIiLDF9DQp9LA0Kew0KeyJTIiwi0JDRg9GC0LXQvdGC0LjRhNC40LrQ
+sNGG0LjRj09wZW5JRCJ9LA0KeyJCIiwwfQ0KfSwNCnsNCnsiUyIsItCQ0YPRgtC1
+0L3RgtC40YTQuNC60LDRhtC40Y/QntChIn0sDQp7IkIiLDB9DQp9DQp9DQp9</v8:СвойстваПользователяИБ>
+		</v8:CatalogObject.Пользователи>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
